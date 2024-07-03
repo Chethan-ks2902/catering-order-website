@@ -1,0 +1,21 @@
+.review{
+    background-color: rgb(238, 161, 220);
+    max-width:1500px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 40%;
+    padding: 80px;
+    margin-top: 180px;
+    border-radius: 12px;
+    
+ }
+ body{
+    background: rgb(238,174,202);
+background: linear-gradient(86deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+ }
+ a{
+    text-decoration-line: none;
+    text-decoration: none;
+ }
+ 
